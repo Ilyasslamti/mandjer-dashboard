@@ -1,0 +1,7 @@
+{
+  "name": "mandjer-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo \"Running dev server...\" && exit 0"
+  }
+}
